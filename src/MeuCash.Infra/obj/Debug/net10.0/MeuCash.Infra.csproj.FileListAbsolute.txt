@@ -1,0 +1,17 @@
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash.Infra.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash.Infra.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash.Infra.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash.Infra.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\bin\Debug\net10.0\MeuCash.Infra.deps.json
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\bin\Debug\net10.0\MeuCash.Infra.runtimeconfig.json
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\bin\Debug\net10.0\MeuCash.Infra.dll
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\bin\Debug\net10.0\MeuCash.Infra.pdb
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\bin\Debug\net10.0\Mentis.Domain.dll
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\bin\Debug\net10.0\Mentis.Domain.pdb
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash..A6723BD3.Up2Date
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash.Infra.dll
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\refint\MeuCash.Infra.dll
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash.Infra.pdb
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\MeuCash.Infra.genruntimeconfig.cache
+C:\Users\eduar\source\repos\Sistemas\MeuCash\src\MeuCash.Infra\obj\Debug\net10.0\ref\MeuCash.Infra.dll

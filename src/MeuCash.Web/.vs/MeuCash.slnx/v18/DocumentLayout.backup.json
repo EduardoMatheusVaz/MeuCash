@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\MeuCash.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3442F44-BB79-4C42-8B61-585B3BC8647A}|..\\MeuCash.Infra\\MeuCash.Infra.csproj|c:\\users\\eduar\\source\\repos\\sistemas\\meucash\\src\\meucash.infra\\contas\\movimentacoes\\movimentacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF94162-8AEF-19BC-4C08-4485BFDF6BEB}|..\\Mentis.Domain\\Mentis.Domain.csproj|c:\\users\\eduar\\source\\repos\\sistemas\\meucash\\src\\mentis.domain\\contas\\movimentacoes\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF94162-8AEF-19BC-4C08-4485BFDF6BEB}|..\\Mentis.Domain\\Mentis.Domain.csproj|c:\\users\\eduar\\source\\repos\\sistemas\\meucash\\src\\mentis.domain\\contas\\movimentacoes\\imovimentacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3442F44-BB79-4C42-8B61-585B3BC8647A}|..\\MeuCash.Infra\\MeuCash.Infra.csproj|c:\\users\\eduar\\source\\repos\\sistemas\\meucash\\src\\meucash.infra\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimentacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\MeuCash.Infra\\Contas\\Movimentacoes\\MovimentacaoRepository.cs",
+              "RelativeDocumentMoniker": "..\\MeuCash.Infra\\Contas\\Movimentacoes\\MovimentacaoRepository.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\MeuCash.Infra\\Contas\\Movimentacoes\\MovimentacaoRepository.cs",
+              "RelativeToolTip": "..\\MeuCash.Infra\\Contas\\Movimentacoes\\MovimentacaoRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA8wDIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:16:21.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\MeuCash.Infra\\Usuarios\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\MeuCash.Infra\\Usuarios\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\MeuCash.Infra\\Usuarios\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\MeuCash.Infra\\Usuarios\\UsuarioRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:45:58.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\Mentis.Domain\\Contas\\Movimentacoes\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "..\\Mentis.Domain\\Contas\\Movimentacoes\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\Mentis.Domain\\Contas\\Movimentacoes\\Movimentacao.cs",
+              "RelativeToolTip": "..\\Mentis.Domain\\Contas\\Movimentacoes\\Movimentacao.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:33:58.664Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovimentacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\Mentis.Domain\\Contas\\Movimentacoes\\IMovimentacaoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mentis.Domain\\Contas\\Movimentacoes\\IMovimentacaoRepository.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Sistemas\\MeuCash\\src\\Mentis.Domain\\Contas\\Movimentacoes\\IMovimentacaoRepository.cs",
+              "RelativeToolTip": "..\\Mentis.Domain\\Contas\\Movimentacoes\\IMovimentacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:24:22.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

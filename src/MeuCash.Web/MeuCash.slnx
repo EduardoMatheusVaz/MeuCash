@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Mentis.Domain/Mentis.Domain.csproj" />
+  <Project Path="../MeuCash.Infra/MeuCash.Infra.csproj" Id="a3442f44-bb79-4c42-8b61-585b3bc8647a" />
+  <Project Path="MeuCash.Web/MeuCash.Web.csproj" />
+</Solution>
